@@ -17,5 +17,6 @@ puts "Where would you like to eat?"
 
 eat = gets.chomp.capitalize
 
+puts "How many nights?"
 
 nights = gets.chomp.capitalize
